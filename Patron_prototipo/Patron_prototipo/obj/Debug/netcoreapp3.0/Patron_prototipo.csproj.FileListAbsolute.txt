@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.exe
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.deps.json
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.dll
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\bin\Debug\netcoreapp3.0\Patron_prototipo.pdb
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\obj\Debug\netcoreapp3.0\Patron_prototipo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\obj\Debug\netcoreapp3.0\Patron_prototipo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\obj\Debug\netcoreapp3.0\Patron_prototipo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\obj\Debug\netcoreapp3.0\Patron_prototipo.dll
+C:\Users\Usuario\source\repos\Patron_prototipo\Patron_prototipo\obj\Debug\netcoreapp3.0\Patron_prototipo.pdb
